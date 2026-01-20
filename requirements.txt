@@ -12,3 +12,4 @@ jupyter
 jupyterlab
 ipython
 peft
+tensorboard
