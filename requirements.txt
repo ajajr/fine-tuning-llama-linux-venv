@@ -1,0 +1,14 @@
+transformers
+datasets
+tokenizers
+accelerate
+wandb
+tqdm
+numpy
+scipy
+scikit-learn
+pandas
+jupyter
+jupyterlab
+ipython
+peft
